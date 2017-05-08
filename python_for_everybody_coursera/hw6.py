@@ -3,3 +3,4 @@ numfind = text.find(':')
 remaintext = text[numfind+1:]
 numonly = float(remaintext)
 print numonly
+# Dummy comment
